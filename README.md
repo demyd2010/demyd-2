@@ -1,9 +1,6 @@
 # demyd-2
 <!DOCTYPE html>
 <html>
-<head>
-    <title> Math Test</title>
-</head>
 <body>
     <h1>Math Test</h1>
     <form>

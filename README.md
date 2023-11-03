@@ -39,6 +39,11 @@
         <p>Word Problem: Solve for x in the equation 10x + 25 = 45</p>
         <textarea name="word_problem" rows="4" cols="50"></textarea><br>
         <button type="submit">Submit</button>
+            <form action="login.php" method="post">
+        <input type="text" name="username" placeholder="name or email" required>
+        <input type="password" name="password" placeholder="password" required>
+        <input type="submit" value="Login">
+    </form>
     </form>
   </body>
 </html>
